@@ -9642,9 +9642,3 @@ html {
 .home-cardstyles {
   height: 100%;
   background-size: cover; }
-
-divider-center {
-  background-color: var(--bs-success) !important; }
-
-.divider-center {
-  background-color: var(--bs-success) !important; }
