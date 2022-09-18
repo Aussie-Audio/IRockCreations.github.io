@@ -9678,3 +9678,29 @@ divider-center {
 .shop-productstyles button.snipcart-add-item {
   border-width: 0;
   background-color: rgba(0, 0, 0, 0); }
+
+.detailed-description {
+  text-align: center;
+  color: var(--bs-primary) !important;
+  font-size: 30px;
+  font-weight: 500;
+  margin-top: 30px;
+  margin-bottom: 25px; }
+
+.product-page-main .short-description h2, .product-page-main .short-description .h2 {
+  color: var(--bs-primary);
+  font-size: 33px; }
+
+.product-page-main .short-description p {
+  font-size: 20px; }
+
+.product-page-main .short-description span {
+  color: var(--bs-primary) !important;
+  font-size: 30px; }
+
+.product-page-main .short-description button {
+  margin-top: 25px;
+  width: 150px; }
+
+.product-page-main .detailed-description-box p {
+  font-size: 20px; }

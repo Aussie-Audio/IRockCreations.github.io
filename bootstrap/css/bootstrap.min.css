@@ -9704,3 +9704,20 @@ divider-center {
 
 .product-page-main .detailed-description-box p {
   font-size: 20px; }
+
+.store-headers {
+  color: var(--bs-primary) !important;
+  font-size: 42px; }
+
+.store-headers-img {
+  height: 50vh; }
+
+.store-item {
+  border: 1px solid #a2b18a;
+  padding: 5px; }
+
+.store-section-div {
+  margin-top: -120px; }
+
+.store-section-divider {
+  margin-top: 40px; }
